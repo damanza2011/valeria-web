@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+.vercel
+node_modules/
+.chrome*/
+shot-*.png
+shot-*.jpg
+preview-*.png
+preview-*.jpg
+*.log
+.DS_Store

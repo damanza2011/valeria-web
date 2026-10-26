@@ -1,0 +1,12 @@
+{
+  "name": "Valeria · Textiles de descanso",
+  "short_name": "Valeria",
+  "description": "Textiles para el descanso con acento Caribe. Barranquilla, Colombia.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F1E7",
+  "theme_color": "#241C17",
+  "icons": [
+    { "src": "assets/img/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

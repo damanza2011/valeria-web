@@ -1,0 +1,7 @@
+{
+  "name": "valeria-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Valeria · tienda editorial de textiles de descanso en Barranquilla.",
+  "engines": { "node": ">=20" }
+}
